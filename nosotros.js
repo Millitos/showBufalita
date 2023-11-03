@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded',function(){
     setTimeout(function(){
         loader.className = 'hide';
         body.classList.remove('hidden');
-        body.style.setProperty('background-image', 'url(/img/underConstruction.jpg)');
+        body.style.setProperty('background-image', 'url(underConstruction.jpg)');
         
     },1000)
     
