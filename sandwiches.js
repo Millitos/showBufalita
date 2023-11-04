@@ -102,7 +102,7 @@ prodContainer.addEventListener('click',function(e){
         const comboJugoTag = document.querySelector(".comboJugo");
 
         //le quito al precio el $ para poder sumarlo y lo multiplico por mil para que de el precio q es, le agg al final de nuevo$
-        const precioNumbPet ='$'+(parseFloat(precio.substring(1)) + 3)*1000;
+        const precioNumbPet ='$'+(parseFloat(precio.substring(1)) + 4)*1000;
         const precioNumbPuntoPet = precioNumbPet.slice(0,3)+'.000'; //agg el punto
         const precioNumbJugo = '$'+(parseFloat(precio.substring(1)) + 6)*1000;
         const precioNumbPuntoJugo = precioNumbJugo.slice(0,3)+'.000';
