@@ -2,79 +2,79 @@
     {
         "id": "1",
         "nombre": "Kola Hipinto 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"kola1.5.jpg"
     },
     {
         "id": "2",
         "nombre": "Kola Hipinto 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"kola400ml.jpg"
     },
     {
         "id": "3",
         "nombre": "Manzana Postobon 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"manzana.webp"
     },
     {
         "id": "4",
         "nombre": "Manzana Postobon 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"manzana400ml.jpg"
     },
     {
         "id": "5",
         "nombre": "Uva Postobon 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"uva1.5.png"
     },
     {
         "id": "6",
         "nombre": "Uva Postobon 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"uva400ml.webp"
     },
     {
         "id": "7",
         "nombre": "Naranja Postobon 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"naranja1.5.jpg"
     },
     {
         "id": "8",
         "nombre": "Naranja Postobon 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"naranja400ml.webp"
     },
     {
         "id": "9",
         "nombre": "Piña Hipinto 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"piña.webp"
     },
     {
         "id": "10",
         "nombre": "Piña Hipinto 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"piña.webp"
     },
     {
         "id": "11",
         "nombre": "Colombiana la nuestra 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"colombiana400ml.png"
     },
     {
         "id": "12",
         "nombre": "Coca Cola Sabor Original 1.5L",
-        "Precio": "$6.000",
+        "Precio": "$7.000",
         "imagen":"cocacola1.5.webp"
     },
     {
         "id": "13",
         "nombre": "Coca Cola Sabor Original 400ml",
-        "Precio": "$3.000",
+        "Precio": "$4.000",
         "imagen":"cocacola400ml.jpg"
     },
     {
