@@ -23,7 +23,7 @@
         "id": "3",
         "nombre": "Choripapa Express",
         "ingredientes": [
-          "Chorizo de búfalo",
+          "Chorizo de búfalo 165gr",
           "papa a la francesa"
         ],
         "Precio": "$18.000"
@@ -32,7 +32,7 @@
         "id": "4",
         "nombre": "Choricarne Express",
         "ingredientes": [
-          "Chorizo de búfalo",
+          "Chorizo de búfalo 165gr",
           "carne",
           "papa a la francesa"
         ],
@@ -42,7 +42,7 @@
         "id": "5",
         "nombre": "Choripollo Express",
         "ingredientes": [
-          "Chorizo de búfalo",
+          "Chorizo de búfalo 165gr",
           "pollo en julianas",
           "papa a la francesa"
         ],
@@ -52,23 +52,23 @@
       "id": "6",
       "nombre": "Salchichoripollo Express",
       "ingredientes": [
-        "Chorizo de búfalo",
+        "Chorizo de búfalo 100gr",
         "pollo en julianas",
         "salchicha americana",
         "papa a la francesa"
       ],
-      "Precio": "$21.000"
+      "Precio": "$22.000"
     },
     {
       "id": "7",
       "nombre": "Salchichoricarne Express",
       "ingredientes": [
-        "Chorizo de búfalo",
+        "Chorizo de búfalo 100gr",
         "carne",
         "salchicha americana",
         "papa a la francesa"
       ],
-      "Precio": "$21.000"
+      "Precio": "$22.000"
     },
     {
       "id": "8",
