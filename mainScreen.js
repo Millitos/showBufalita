@@ -29,3 +29,12 @@ function redirectToUbicacion(){
 function redirectToNosotros(){
     window.location.href = 'nosotros.html';
 }
+
+//pop up
+window.addEventListener('load', function() {
+    document.getElementById('popup').style.display = 'block';
+});
+
+document.querySelector('.close').addEventListener('click', function() {
+    document.getElementById('popup').style.display = 'none';
+});
