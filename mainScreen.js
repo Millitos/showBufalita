@@ -31,10 +31,10 @@ function redirectToNosotros(){
 }
 
 //pop up
-window.addEventListener('load', function() {
-    document.getElementById('popup').style.display = 'block';
-});
+//window.addEventListener('load', function() {
+//    document.getElementById('popup').style.display = 'block';
+//});
 
-document.querySelector('.close').addEventListener('click', function() {
-    document.getElementById('popup').style.display = 'none';
-});
+//document.querySelector('.close').addEventListener('click', function() {
+//    document.getElementById('popup').style.display = 'none';
+//});
