@@ -5,10 +5,10 @@
         "ingredientes": [
           "Carne de búfalo 145g",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$17.000"
+        "Precio": "$19.000"
       },
       {
         "id": "2",
@@ -16,10 +16,10 @@
         "ingredientes": [
           "Carne de búfalo picante 145g",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$19.000"
+        "Precio": "$20.000"
       },
       {
         "id": "3",
@@ -28,10 +28,10 @@
           "Carne de búfalo 145g",
           "Carne de búfalo picante 145g",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$24.000"
+        "Precio": "$26.000"
       },
       {
         "id": "4",
@@ -40,10 +40,10 @@
           "Carne de búfalo 145g",
           "Cortes de pollo en juliana",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$22.000"
+        "Precio": "$23.000"
       },
       {
         "id": "5",
@@ -51,10 +51,10 @@
         "ingredientes": [
           "Carne de búfalo x2 145g c/u",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$24.000"
+        "Precio": "$26.000"
       },
       {
         "id": "6",
@@ -63,10 +63,10 @@
           "Carne de búfalo picante 145g",
           "Cortes de pollo en juliana",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$22.000"
+        "Precio": "$23.000"
       },
       {
         "id": "7",
@@ -74,10 +74,10 @@
         "ingredientes": [
           "Carne de búfalo picante x2 145g c/u",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$25.000"
+        "Precio": "$27.000"
       },
       {
         "id": "8",
@@ -85,10 +85,10 @@
         "ingredientes": [
           "Carne de búfalo 100g",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$14.500"
+        "Precio": "$17.000"
       },
       {
         "id": "9",
@@ -97,10 +97,10 @@
           "Carne de búfalo 100g",
           "Cortes de pollo en juliana",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$17.500"
+        "Precio": "$19.000"
       },
       {
         "id": "10",
@@ -108,10 +108,10 @@
         "ingredientes": [
           "Cortes de pollo en juliana",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$16.000"
+        "Precio": "$17.000"
       },
       {
         "id": "11",
@@ -122,10 +122,10 @@
           "Cortes de pollo en juliana",
           "Tocineta",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$25.000"
+        "Precio": "$26.000"
       },
       {
         "id": "12",
@@ -136,10 +136,10 @@
           "Cortes de pollo en juliana",
           "Tocineta",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$26.000"
+        "Precio": "$27.000"
       },
       {
         "id": "13",
@@ -151,10 +151,10 @@
           "Cortes de pollo en juliana",
           "Tocineta",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$29.000"
+        "Precio": "$31.000"
       },
       {
         "id": "14",
@@ -165,10 +165,10 @@
           "Cortes de pollo en juliana",
           "Tocineta",
           "Verdura",
-          "Queso tajado",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$27.000"
+        "Precio": "$28.000"
       }
 
 ]

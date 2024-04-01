@@ -6,10 +6,10 @@
           "Salchicha Americana",
           "Ripio papa",
           "Cebolla",
-          "Queso",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$15.000"
+        "Precio": "$17.000"
       },
       {
         "id": "2",
@@ -20,10 +20,10 @@
           "Tocineta",
           "Cebolla",
           "Ripio papa",
-          "Queso",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$18.000"
+        "Precio": "$19.000"
       },
       {
         "id": "3",
@@ -33,7 +33,7 @@
           "Pollo",
           "Carne",
           "Tocineta",
-          "Queso",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
         "Precio": "$21.000"
@@ -45,10 +45,10 @@
           "Chorizo de búfalo",
           "Ripio papa",
           "Cebolla",
-          "Queso",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$20.000"
+        "Precio": "$21.000"
       },
       {
         "id": "5",
@@ -60,10 +60,10 @@
           "Pollo en julianas",
           "Carne",
           "Tocineta",
-          "Queso",
+          "Queso de búfalo tajado",
           "Porción de papas"
         ],
-        "Precio": "$25.000"
+        "Precio": "$27.000"
       }
 
 ]
